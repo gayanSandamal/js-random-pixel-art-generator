@@ -72,12 +72,11 @@ Add the following HTML code to your project:
   </div>
 </body>
 </html>
-
-Make sure to replace js-random-pixel-art-generator with the actual package name if it differs.
+```
 
 Demo
 
-Here’s a live demo of the Random Pixel Art Generator: Demo Link
+Here’s a live demo of the Random Pixel Art Generator: [Demo Link](https://codepen.io/gayan_sandamal/pen/LYXLVXm)
 
 API
 
