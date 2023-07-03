@@ -1,6 +1,6 @@
 {
   "name": "@gayansandamal/js-random-pixel-art-generator",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Generate symmetrical random pixel avatars",
   "main": "index.js",
   "dependencies": {},
