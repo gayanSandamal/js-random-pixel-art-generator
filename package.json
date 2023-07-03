@@ -1,0 +1,32 @@
+{
+  "name": "@gayansandamal/js-random-pixel-art-generator",
+  "version": "1.0.0",
+  "description": "Generate symmetrical random pixel avatars",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gayanSandamal/ez-object-diff.git"
+  },
+  "keywords": [
+    "javscript",
+    "pixel",
+    "art",
+    "pixelart",
+    "random",
+    "randomArts",
+    "gravatar",
+    "avatar"
+  ],
+  "author": "gayan sandamal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gayanSandamal/js-random-pixel-art-generator/issues"
+  },
+  "homepage": "https://github.com/gayanSandamal/js-random-pixel-art-generator#readme"
+}
